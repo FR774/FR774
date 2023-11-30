@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FR774
-- 👀 I’m interested in software development and
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ~~~
 - 📫 How to reach me fourie2006@gmail.com
